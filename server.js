@@ -14,4 +14,4 @@ app.get('/:param/:param2', function (req, res) {
   });
 });
 
-app.listen(port || 3000);
+app.listen(3000);
